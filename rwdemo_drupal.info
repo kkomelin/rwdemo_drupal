@@ -1,0 +1,7 @@
+name = RWDemo
+description = Demo Drupal theme for the "Responsive Web Design & Drupal" presentation at Drupal White Nights 2014.
+core = 7.x
+stylesheets[all][] = styles.css
+
+regions[sidebar_left] = Sidebar left
+regions[content] = Content
